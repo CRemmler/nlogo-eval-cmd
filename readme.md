@@ -11,6 +11,7 @@
 ## Use GbCC primitive commands and reporters
 - [x] gbcc-get
 - [x] gbcc-run-code
+- [x] eval-cmd
 
 ## Known Issues with Conversion
 - Switches, monitors, choosers, sliders on the student interface may not be fully functional.
