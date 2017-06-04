@@ -1,0 +1,19 @@
+{
+  "interfaceJs": {
+    "loginComponents": {
+      "componentRange": [38,38]
+    },
+    "studentComponents": {
+      "componentRange": [37,37]
+    },
+    "teacherComponents": {
+      "componentRange": [0,36]
+    }
+  },
+  "clientJs": {
+    "reporterComponents": {
+    },
+    "inputComponents": {
+    }
+  }
+}
